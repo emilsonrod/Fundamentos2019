@@ -1,0 +1,9 @@
+C:\Users\ServerB\Desktop\c#net\ProyectoHerencia\ListaPersonas\bin\Debug\ListaPersonas.exe.config
+C:\Users\ServerB\Desktop\c#net\ProyectoHerencia\ListaPersonas\bin\Debug\ListaPersonas.exe
+C:\Users\ServerB\Desktop\c#net\ProyectoHerencia\ListaPersonas\bin\Debug\ListaPersonas.pdb
+C:\Users\ServerB\Desktop\c#net\ProyectoHerencia\ListaPersonas\obj\Debug\ListaPersonas.csprojResolveAssemblyReference.cache
+C:\Users\ServerB\Desktop\c#net\ProyectoHerencia\ListaPersonas\obj\Debug\ListaPersonas.exe
+C:\Users\ServerB\Desktop\c#net\ProyectoHerencia\ListaPersonas\obj\Debug\ListaPersonas.pdb
+C:\Users\ServerB\Desktop\c#net\VersionFundamentos\Fundamentos2019\ListaPersonas\bin\Debug\ListaPersonas.exe.config
+C:\Users\ServerB\Desktop\c#net\VersionFundamentos\Fundamentos2019\ListaPersonas\obj\Debug\ListaPersonas.exe
+C:\Users\ServerB\Desktop\c#net\VersionFundamentos\Fundamentos2019\ListaPersonas\obj\Debug\ListaPersonas.pdb
