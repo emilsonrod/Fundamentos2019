@@ -1,0 +1,11 @@
+C:\Users\ServerB\Desktop\c#net\Formulario12019\Formulario12019\bin\Debug\Formulario12019.exe.config
+C:\Users\ServerB\Desktop\c#net\Formulario12019\Formulario12019\bin\Debug\Formulario12019.exe
+C:\Users\ServerB\Desktop\c#net\Formulario12019\Formulario12019\bin\Debug\Formulario12019.pdb
+C:\Users\ServerB\Desktop\c#net\Formulario12019\Formulario12019\obj\Debug\Formulario12019.Form1.resources
+C:\Users\ServerB\Desktop\c#net\Formulario12019\Formulario12019\obj\Debug\Formulario12019.Properties.Resources.resources
+C:\Users\ServerB\Desktop\c#net\Formulario12019\Formulario12019\obj\Debug\Formulario12019.csproj.GenerateResource.Cache
+C:\Users\ServerB\Desktop\c#net\Formulario12019\Formulario12019\obj\Debug\Formulario12019.exe
+C:\Users\ServerB\Desktop\c#net\Formulario12019\Formulario12019\obj\Debug\Formulario12019.pdb
+C:\Users\ServerB\Desktop\c#net\Formulario12019\Formulario12019\bin\Debug\BibliotecaClases.dll
+C:\Users\ServerB\Desktop\c#net\Formulario12019\Formulario12019\bin\Debug\BibliotecaClases.pdb
+C:\Users\ServerB\Desktop\c#net\Formulario12019\Formulario12019\obj\Debug\Formulario12019.csprojResolveAssemblyReference.cache

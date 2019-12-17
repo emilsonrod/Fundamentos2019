@@ -1,0 +1,5 @@
+C:\Users\ServerB\Desktop\c#net\Formulario12019\BibliotecaClases\bin\Debug\BibliotecaClases.dll
+C:\Users\ServerB\Desktop\c#net\Formulario12019\BibliotecaClases\bin\Debug\BibliotecaClases.pdb
+C:\Users\ServerB\Desktop\c#net\Formulario12019\BibliotecaClases\obj\Debug\BibliotecaClases.dll
+C:\Users\ServerB\Desktop\c#net\Formulario12019\BibliotecaClases\obj\Debug\BibliotecaClases.pdb
+C:\Users\ServerB\Desktop\c#net\Formulario12019\BibliotecaClases\obj\Debug\BibliotecaClases.csprojResolveAssemblyReference.cache
